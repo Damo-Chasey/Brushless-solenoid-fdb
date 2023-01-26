@@ -10,3 +10,7 @@ Output:
 
 Input
 3 buttons/triggers              Pins 12, 14 and 0 for edit button (Pulled high so must be pulled to ground to activate)
+
+![20230125_194914](https://user-images.githubusercontent.com/60119374/214763709-8e027242-4d91-4f01-87d8-ab4c3d882b4f.jpg)
+![wiring diagram](https://user-images.githubusercontent.com/60119374/214763651-4cce5c52-4976-4265-a3cc-d0a9a06f7a90.png)
+
